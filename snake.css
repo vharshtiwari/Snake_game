@@ -1,0 +1,46 @@
+#first{
+	left: 300px;
+	top: 13px;
+	border: 1px solid black;
+	margin: auto;
+	position: fixed;
+	
+
+}
+body{
+	margin: 0;
+}
+#initial{
+	left: 300px;
+	top: 13px;
+	position: fixed;
+	z-index: -1;
+	background-color: #9DC183;
+	width: 800px;
+	height: 800px;
+}
+#btn{
+	left:650px;
+	top: 450px;
+	position: absolute;
+	width: 85px;
+	height: 48px;
+	font-family: 'Helevetica';
+	font-size: 28px;
+	border-radius: 3px;
+	box-shadow: 0 0 1em black;
+
+}
+#grass{
+	position: fixed;
+	z-index: -1;
+	top: 13px;
+	left: 300px;
+	box-shadow: 0 0 12.5em black;
+}
+#head{
+	position: fixed;
+	left: 580px;
+	top: 190px;
+	font-size: 50px;
+}
